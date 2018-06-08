@@ -34,7 +34,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
         .title("Sample Spring Boot Swagger")
         .description("This is a smaple swagger generation for spring boot 2 using spring fox")
         .version("1.0.0")
-        .contact(new Contact("Venu", "", "venugopal574java@gmail.com"))
+        .contact(new Contact("Venu", "", "venu@xyz.com"))
         .build();
   }
 
