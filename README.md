@@ -87,9 +87,12 @@ Once the application is started,
 
 For json file,use the url : http://localhost:8080/v2/api-docs
 
-For UI , use the url: http://localhost:8080/swagger-ui.html#/
-
 ![Alt text](https://github.com/venugunji/springboot2-swagger-springfox/blob/master/src/main/resources/jsonscreenshot.png?raw=true "Json")
 
+For UI , use the url: http://localhost:8080/swagger-ui.html#/
+
 ![Alt text](https://github.com/venugunji/springboot2-swagger-springfox/blob/master/src/main/resources/swaggerUI.png?raw=true "UI")
+
+
+
 
